@@ -8,3 +8,4 @@
 /dataSources.local.xml
 
 /backend/target
+/backend/src/main/resources/application-local.yml
